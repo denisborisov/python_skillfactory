@@ -4,7 +4,7 @@
 ## Задача проекта
 * Примерить на себя роль аналитика данных.
 * Провести свой первый анализ данных с помощью pandas.
-* (Ссылка на набор данных)(https://lms.skillfactory.ru/assets/courseware/v1/1d68c628a08cd5521ae70e976577568b/asset-v1:Skillfactory+DST-WEEKLY-2.0+08JULY2020+type@asset+block/movie_bd_v5.csv)
+* [Ссылка на набор данных](https://lms.skillfactory.ru/assets/courseware/v1/1d68c628a08cd5521ae70e976577568b/asset-v1:Skillfactory+DST-WEEKLY-2.0+08JULY2020+type@asset+block/movie_bd_v5.csv)
 
 
 ### Количество набранных в викторине баллов: 27
